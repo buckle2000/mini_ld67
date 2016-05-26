@@ -28,3 +28,7 @@ The game board will get larger as you move on. (more difficult)
 
 ## Thoughts
 Remember! Index of lua arrays starts from 1, not 0!
+
+## Thanks
+Used font: 04B_03.TTF
+http://www.dafont.com/04b-03.font
