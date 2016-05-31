@@ -1,20 +1,24 @@
 # Rectify
 A clone of a game which name is forgotten. I have played it on my friend's Nokia phone 5+ years ago.
 
+Made using [love2d](https://www.love2d.org/).
+
 ![](screenshot.png)
 
 
 ## System Requirements
-**OS:** Windows, Linux, OSX and so on. All supported systems are listed [here](https://www.love2d.org/).
-**Hardware:** Basically any home computer manufactured in the 21th century.
+**OS:** Windows, Linux, OSX and so on. All supported systems are listed 
+Sorry, only windows binaries are avaliable for the time being.
+
+**Hardware:** Basically any home computer manufactured in the 21th century. :)
 
 ## Rules
-Form a big, individual (disconnected from other blocks) rectangle to eliminate blocks.
+Form an individual (disconnected from other blocks) rectangle to eliminate blocks in that rectangle.
 When any block reaches the bottom red line, you lose.
 The game board will get larger as you move on. (more difficult)
 
 ## Controls
-**Launch holded blocks (shown in the bottom right):** `space` or `primary mouse button`
+**Launch held blocks (shown in the bottom right):** `space` or `primary mouse button`
 
 **Rotate blocks clockwise:** `up` or `secondary mouse button`
 
