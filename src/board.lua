@@ -5,13 +5,6 @@ board_mt.__index = board_mt
 BLOCK_OFFSET = 0.05
 FRAME_WIDTH = 0.2
 
--- colors
-COLOR_DANGER = {255,92,93} -- empty grid
-COLOR_EMPTY = {200,200,200, 64} -- empty grid
-COLOR_FILL = {220,220,220} -- filled grid
-COLOR_FRAME = {255,255,255} -- the frame outside board
-COLOR_HIGHLIGHT = {32,32,64} -- used to highlight several columns
-COLOR_PREDICT = {235,252,18,100}
 local BLOCK_SIDE_LEN = 1 - 2*BLOCK_OFFSET
 
 -- construct a new board
