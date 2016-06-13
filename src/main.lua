@@ -42,6 +42,7 @@ function load(arg)
 	local font = g.newFont("arial.ttf", 30) -- TODO get a easy recognizable font
 	centered_text = g.newText(font)
 	sounds = {}
+	love.filesystem.mount("sound", "sound")
 	-- assert(love.filesystem.exists("sound"), "sound files missing.")
 	load_sound("die")
 	load_sound("fire")
